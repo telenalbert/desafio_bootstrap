@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-green {
+    background-color: #28A745;
+}
+
+.logo {
+    width: 100px;
+}
+
+.font-card {
+    color: #707070;
+}
+
+.green {
+    color: #28A745;
+}
+
+.text-footer{
+    color: #707070;
+}
